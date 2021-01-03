@@ -308,7 +308,7 @@
                 "kwargs": {
                     "game_type": "Level_01/EnemyTurret2",
                     "spawn_pos": [
-                        [640, 640]
+                        [640, 540]
                     ]
                 }
             },
